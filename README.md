@@ -1,23 +1,56 @@
 <h1 align="center">Hi 👋, I'm Imrul Hasan Sifat</h1>
-<h3 align="center">A passionate programmer from Bangladesh</h3>
+<h3 align="center">A passionate programmer & problem solver from Bangladesh 🇧🇩</h3>
 
-- 🌱 I’m currently learning **Backend Web Development with Java Spring Boot**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/imrul_hasansifat_2a7a491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imrul_hasansifat_2a7a491" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sifat578/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sifat578/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/31247847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="31247847" height="30" width="40" /></a>
-<a href="https://codesandbox.com/sifathasan578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="sifathasan578" height="30" width="40" /></a>
-<a href="https://kaggle.com/sifat578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sifat578" height="30" width="40" /></a>
-<a href="https://medium.com/@imrulhasansifat_13631" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imrulhasansifat_13631" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sifat578" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sifat578" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sifathasan578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sifathasan578" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tafis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tafis" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sifathasan578" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sifathasan578" height="30" width="40" /></a>
+<p align="center">
+  🌱 Currently learning <strong>Backend Web Development with Java Spring Boot</strong><br>
+  💻 Interested in <strong>Software Engineering | Data Science | AI/ML</strong><br>
+  🚀 Always exploring ways to build scalable and efficient systems
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sifathasan578&show_icons=true&locale=en&layout=compact" alt="sifathasan578" /></p>
+### 🧑‍💻 About Me
+- 🎓 BSc in **Computer Science & Engineering** from **Daffodil International University**
+- 🧩 Solved **2000+ problems** on various Online Judges and participated in **200+ contests**
+- 🏆 **ICPC Dhaka Regional 2023** – Team Rank 80 | University Rank 3rd
+- 🔍 Learning to balance **code quality**, **design**, and **real-world practicality**
+- ⚡ Fun fact: I love challenges that push my logical limits
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+<a href="https://dev.to/imrul_hasansifat_2a7a491" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sifat578/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/31247847" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+<a href="https://kaggle.com/sifat578" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://medium.com/@imrulhasansifat_13631" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/tafis" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.leetcode.com/sifathasan578" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/profile/sifathasan578" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/sifat578" target="_blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,html,css,js,mysql,git,linux,c,cpp,kotlin" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sifathasan578&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifathasan578&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
+</p>
+
+---
+
+### ⚡ Quote that Inspires Me
+> “Discipline beats motivation. Consistency builds mastery.”
+
+---
+
+⭐ **If you like what I do, consider giving a star to my repositories!**
