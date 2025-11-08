@@ -12,7 +12,6 @@
 ### 🧑‍💻 About Me
 - 🎓 BSc in **Computer Science & Engineering** from **Daffodil International University**
 - 🧩 Solved **2000+ problems** on various Online Judges and participated in **200+ contests**
-- 🏆 **ICPC Dhaka Regional 2023** – Team Rank 80 | University Rank 3rd
 - 🔍 Learning to balance **code quality**, **design**, and **real-world practicality**
 - ⚡ Fun fact: I love challenges that push my logical limits
 
