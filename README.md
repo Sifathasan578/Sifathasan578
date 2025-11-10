@@ -45,6 +45,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifathasan578&layout=compact&theme=tokyonight" alt="Top languages" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifathasan578&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### ⚡ Quote that Inspires Me
