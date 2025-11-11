@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sifathasan578&theme=tokyonight&hide_border=false&r=1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sifathasan578&theme=tokyonight&hide_border=false&r=2" alt="GitHub Streak" />
 </p>
 
 ---
