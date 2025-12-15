@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer & problem solver from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  🌱 Currently learning <strong>Backend Web Development with Java Spring Boot</strong><br>
+  <!-- 🌱 Currently learning <strong>Backend Web Development with Java Spring Boot</strong><br> -->
   💻 Interested in <strong>Software Engineering | Data Science | AI/ML</strong><br>
   🚀 Always exploring ways to build scalable and efficient systems
 </p>
