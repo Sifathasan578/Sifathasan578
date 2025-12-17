@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- 🌱 Currently learning <strong>Backend Web Development with Java Spring Boot</strong><br> -->
-  💻 Interested in <strong>Software Engineering | Data Science | AI/ML</strong><br>
+  💻 Interested in <strong>Software Engineering | Data Science | AI/ML | Cyber Security</strong><br>
   🚀 Always exploring ways to build scalable and efficient systems
 </p>
 
